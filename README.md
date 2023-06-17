@@ -1,5 +1,5 @@
 # Launch Image
-![C++_경주게임](https://github.com/HyeonHoo/C_RacingGame/assets/69030306/08f289d0-e4f1-4140-b8d5-90f3afacde86)
+![C++_경주게임](https://github.com/HyeonHoo/C_RacingGame/assets/69030306/c069f49e-6698-4c3b-ac35-87a9ee142fe8)
 
 # 목적
 C++수업 복습과. C++클래스 심화학습을 위한 간단한 C++게임프로젝트
