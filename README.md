@@ -1,6 +1,3 @@
-# C++_경마게임
- C++언어를 활용한 간단한 경마게임
-
 # Launch Image
 ![C++_경주게임](https://github.com/HyeonHoo/C_RacingGame/assets/69030306/08f289d0-e4f1-4140-b8d5-90f3afacde86)
 
